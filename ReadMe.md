@@ -1,0 +1,1 @@
+The prototype of ObfusSpot will be available after publishing its paper.
